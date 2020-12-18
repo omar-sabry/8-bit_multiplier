@@ -1,1 +1,3 @@
-# 8-bit_multiplier
+Omar Sabry
+Salma Abdo
+Nadine Abdelal
