@@ -11,3 +11,4 @@ The project’s objective is to design a model for an 8x8 bit signed sequential 
 started out by drawing a block diagram that contains all the hardware we will use to in order to implement this multiplier. The block diagram is
 separated into two parts: data path and control unit. 
 
+https://github.com/omar-sabry/8-bit_multiplier.git
